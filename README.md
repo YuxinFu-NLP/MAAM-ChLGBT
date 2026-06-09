@@ -6,6 +6,16 @@ We introduce **ChLGBT**, a fine-grained Chinese LGBT-focused discriminatory-lang
 
 > **Important:** We do **not** release the original raw social-media texts of ChLGBT because they may contain sensitive personal expression, harmful language, and content that could be linked back to individual users. The non-identifying ChLGBT dataset will be made public after the paper is formally accepted; at this stage, this repository only provides project information and dataset documentation.
 
+## Paper (Preprint)
+
+Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** is now available as a preprint:
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.09114-b31b1b.svg)](http://arxiv.org/abs/2606.09114)
+
+- **arXiv ID:** 2606.09114
+- **Link:** [http://arxiv.org/abs/2606.09114](http://arxiv.org/abs/2606.09114)
+- **Cite as:** arXiv:2606.09114 [cs.CL]
+
 ## Project Overview
 
 Chinese discriminatory-language detection is challenging because harmful intent is often implicit, contextual, and expressed through stereotypes rather than direct slurs. Existing Chinese bias/discrimination benchmarks are often binary or coarse-grained, which limits fine-grained analysis of how discriminatory meaning is expressed.
@@ -181,13 +191,19 @@ The CC BY-NC-SA 4.0 license applies to the released documentation, annotation gu
 
 ## Citation
 
-A formal citation will be added after the paper is published or assigned a stable preprint record.
+If you use this project, the MAAM framework, or the ChLGBT dataset in your research, please cite our arXiv preprint:
 
-For now, if you refer to this project, please cite the repository page and include the project title:
-
-**MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection**
-
-Please check this section again before citing, as the official BibTeX entry will be updated after publication.
+```bibtex
+@misc{fu2026maamanchorpreservingcompressioncontextual,
+      title={MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection}, 
+      author={Yuxin Fu and Shijing Si},
+      year={2026},
+      eprint={2606.09114},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.09114}, 
+}
+```
 
 ## Contact
 
