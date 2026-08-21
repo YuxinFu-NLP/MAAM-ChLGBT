@@ -1,10 +1,21 @@
 # MAAM and ChLGBT
 
+
+[![EMNLP 2026 Accepted](https://img.shields.io/badge/EMNLP%202026-Accepted%20(Findings)-emerald.svg)](https://2026.emnlp.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.09114-b31b1b.svg)](http://arxiv.org/abs/2606.09114)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> ## 🎉 **News (August 21, 2026)**
+> 
+> Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** has been officially accepted to **EMNLP 2026 (Findings)**!  
+> 
+> We look forward to seeing you in Budapest, Hungary!
+
 This repository contains project materials for **MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection**.
 
 We introduce **ChLGBT**, a fine-grained Chinese LGBT-focused discriminatory-language benchmark with 8,120 manually annotated social-media samples. ChLGBT is designed for analyzing discriminatory expression beyond binary detection by separating **explicit bias**, **implicit bias**, and **emotional intensity**.
 
-> **Important:** We do **not** release the original raw social-media texts of ChLGBT because they may contain sensitive personal expression, harmful language, and content that could be linked back to individual users. The non-identifying ChLGBT dataset will be made public after the paper is formally accepted; at this stage, this repository only provides project information and dataset documentation.
+> **Important:** We do **not** release the original raw social-media texts of ChLGBT because they may contain sensitive personal expression, harmful language, and content that could be linked back to individual users. The non-identifying ChLGBT dataset will be made public after the paper is formally accepted (by early September 2026); at this stage, this repository only provides project information and dataset documentation.
 
 ## Paper (Preprint)
 
@@ -102,6 +113,8 @@ The 1-5 scores should be interpreted as ordinal research labels rather than obje
 Therefore, the labels should be used for dataset-level analysis, model training, and benchmark evaluation under the documented annotation scheme. They should not be treated as definitive moral, legal, or social judgments about any individual speaker or community. Disagreements about individual scores should be understood as part of the inherent subjectivity of fine-grained bias annotation, rather than as errors in isolation.
 
 ## Dataset Access
+> 📢 **Release Schedule:**  
+> The anonymized dataset is currently being prepared alongside our camera-ready version and will be **fully public within a few days** (by early September 2026). Please stay tuned or star this repository for updates!
 
 Due to privacy and ethical considerations related to social-media content and LGBT-related discriminatory language, we do **not** release the original raw Weibo texts used to construct ChLGBT.
 
@@ -116,7 +129,7 @@ The original posts may contain sensitive personal expression, potentially harmfu
 - device metadata,
 - other identifying metadata.
 
-**The non-identifying ChLGBT dataset will be released after the paper is formally accepted.** At the current stage, this repository only provides related project information and documentation materials, including:
+At the current stage, this repository only provides related project information and documentation materials, including:
 
 - annotation guidelines,
 - label schema,
@@ -205,9 +218,17 @@ If you use this project, the MAAM framework, or the ChLGBT dataset in your resea
 }
 ```
 
-## Contact
+## Contact & Collaboration
 
-For questions about the project, annotation protocol, or non-identifying research materials, please contact:
+We warmly welcome academic discussions, potential research collaborations, and inquiries regarding the **MAAM** framework or the **ChLGBT** benchmark!
 
-- **Yuxin Fu**: yuxinfuNLP@outlook.com
-- **Shijing Si**: shijing.si@outlook.com
+- **Primary Contact (for research collaboration & dataset access):** Yuxin Fu ([yuxinfuNLP@outlook.com](mailto:yuxinfuNLP@outlook.com)) — please direct all project-related correspondence here.
+- **GitHub Issues:** Feel free to open an issue in this repository for technical questions or bug reports.
+- **Collaboration Note:** If you are interested in extending the ChLGBT benchmark, fine-grained bias analysis, or cross-linguistic discriminatory language detection, please don't hesitate to reach out via email—we'd be happy to connect and discuss ideas.
+
+We also welcome feedback, suggestions, and constructive criticism to help us improve this project.
+
+---
+
+*For institutional or administrative correspondence:*
+- **Shijing Si** (co-author): shijing.si@outlook.com
