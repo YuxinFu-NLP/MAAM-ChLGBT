@@ -17,6 +17,17 @@ We introduce **ChLGBT**, a fine-grained Chinese LGBT-focused discriminatory-lang
 
 > **Important:** We do **not** release the original raw social-media texts of ChLGBT because they may contain sensitive personal expression, harmful language, and content that could be linked back to individual users. The non-identifying ChLGBT dataset will be made public after the paper is formally accepted (by early September 2026); at this stage, this repository only provides project information and dataset documentation.
 
+
+# 📖 Two Ways to Read This Repository
+
+> **🧭 [Read the Philosophy & MAAM's WORLD](./README（MAAM%27s%20WORLD）.md)** — Why this method exists, the personal story, the five universal principles, and how to extend it to any language, task, or model.
+>
+> **⚙️ [Read the Technical Paper & Experiments](#)** — The EMNLP 2026 Findings paper, ChLGBT dataset and experimental results.
+
+---
+
+**Start here if you want the full story.** 👇
+
 ## Paper (Preprint)
 
 Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** is now available as a preprint:
@@ -158,13 +169,14 @@ The intended use of this project is academic research on bias, discriminatory-la
 
 This repository is organized in a minimal format:
 
-```text
-.
-├── README.md
-└── Dataset/
-```
+
+├── README.md                      
+├── README (MAAM's WORLD).md           
+└── Dataset/                       
 
 `README.md` provides the project overview, annotation schema, access policy, ethical-use statement, license information, and contact details.
+
+`README (MAAM's WORLD).md` explains why MAAM exists, the personal backstory behind it, and the five universal principles that make it extensible to any language, task, context, model, or mathematical framework. It also serves as an open invitation for collaboration and further development.
 
 `Dataset/` contains the released non-identifying ChLGBT dataset and documentation, including anonymized/re-written dataset texts, labels, annotation guidelines, label schema, preprocessing description, and aggregate statistics. It does **not** contain the original raw social-media texts, code, or experimental scripts.
 
