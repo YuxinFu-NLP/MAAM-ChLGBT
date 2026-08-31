@@ -11,6 +11,38 @@
 > 
 > We look forward to seeing you in Budapest, Hungary!
 
+## 📢 A Quick Note & A First-Timer's Honesty (September 1, 2026)
+
+First of all, thank you all so much for checking out MAAM and ChLGBT! 
+
+As we officially step into September 1st, I realize there might have been some misunderstandings due to my initial, rather formal notice. To be completely honest, **this is my very first time having a paper accepted to such a large-scale international conference (EMNLP 2026), and I am still getting familiar with its post-acceptance workflow.** 
+
+Because I have no prior experience navigating a venue of this scale, and no senior lab mates to guide me through the administrative and risk controls, **I was extra anxious and wanted to make sure everything was 100% secure before releasing the raw dataset**—which is why I pushed the public release of **ChLGBT** to **early September 2026**.
+
+To make matters even more "adventurous": **I am flying solo to Budapest all by myself!** This will be my very first time traveling to Europe, my first time taking such a long-haul international flight, and honestly, **the first time I'm leaving Asia**. I am basically a complete novice when it comes to travel of this scale, and to be a little vulnerable—**I am quite nervous!**
+
+---
+
+### 🤝 Let's Break the Ice & Connect!
+
+Since we've cleared the air, **please don't hesitate to reach out to me!** 
+
+🔥 **Primary Goal / PhD Opportunities & Research Direction:**  
+**I am actively looking for Ph.D. positions / opportunities starting soon!** My core research background is anchored in the **AI Bias & Safety** track, and I am currently looking forward to exploring and expanding into exciting new research directions. If you are a professor, a researcher, or a lab looking for a motivated student with a proven track record in this domain, **please reach out to me via email!** I would love to discuss potential Ph.D. openings and how I can contribute to your group.
+
+**Other ways to connect (I'd love to hear from you!):**
+* Chat about the **MAAM methodology**, discuss the **Bias & Safety** landscape, or brainstorm new cross-domain tracks.
+* Share any advice, **visa tips, or conference survival guides** for Budapest (I am all ears!).
+* Connect as **conference buddies** if you are also attending EMNLP 2026!
+
+You can drop me an email anytime. Let’s connect, clear up any misunderstandings, and hopefully start a wonderful academic journey together!
+
+> **Best regards,**  
+> **Yuxin Fu**  
+> yuxinfuNLP@outlook.com  
+> *(Author of MAAM & ChLGBT)*
+---
+
 This repository contains project materials for **MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection**.
 
 We introduce **ChLGBT**, a fine-grained Chinese LGBT-focused discriminatory-language benchmark with 8,120 manually annotated social-media samples. ChLGBT is designed for analyzing discriminatory expression beyond binary detection by separating **explicit bias**, **implicit bias**, and **emotional intensity**.
