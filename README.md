@@ -54,7 +54,7 @@ Chinese discriminatory-language detection is challenging because harmful intent 
 
 > **🧭 [Read the Philosophy & MAAM's WORLD](./README（MAAM%27s%20WORLD）.md)** — Why this method exists, the personal story, the five universal principles, and how to extend it to any language, task, or model.
 >
-> **⚙️ [Read the Technical Paper & Experiments](#)** — The EMNLP 2026 Findings paper, ChLGBT dataset and experimental results.
+> **⚙️ [Read the Technical Paper & Experiments](./README（ChLGBT）.md)** — The EMNLP 2026 Findings paper, ChLGBT dataset and experimental results.
 
 ---
 
