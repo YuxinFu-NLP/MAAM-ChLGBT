@@ -11,31 +11,33 @@
 > 
 > We look forward to seeing you in Budapest, Hungary!
 
-## 📢 A Quick Note & A First-Timer's Honesty (September 1, 2026)
 
-First of all, thank you all so much for checking out MAAM and ChLGBT! 
 
-As we officially step into September 1st, I realize there might have been some misunderstandings due to my initial, rather formal notice. To be completely honest, **this is my very first time having a paper accepted to such a large-scale international conference (EMNLP 2026), and I am still getting familiar with its post-acceptance workflow.** 
+# 📢 **A Quick Note & Delivering on My Promise (September 7, 2026)**
 
-Because I have no prior experience navigating a venue of this scale, and no senior lab mates to guide me through the administrative and risk controls, **I was extra anxious and wanted to make sure everything was 100% secure before releasing the raw dataset**—which is why I pushed the public release of **ChLGBT** to **early September 2026**.
+First of all, thank you all so much for checking out **MAAM** and **ChLGBT**!
 
-To make matters even more "adventurous": **I am flying solo to Budapest all by myself!** This will be my very first time traveling to Europe, my first time taking such a long-haul international flight, and honestly, **the first time I'm leaving Asia**. I am basically a complete novice when it comes to travel of this scale, and to be a little vulnerable—**I am quite nervous!**
+As promised, I am here to honor my word—even if it might feel like a quiet promise in a noisy world. Today, I am officially releasing the complete, authentic **ChLGBT** dataset. 
+
+This dataset carries the weight of my entire undergraduate journey—countless late nights, unyielding persistence, and absolute passion. My original motivation for building **ChLGBT** was to amplify the voices of marginalized communities, fostering a truly equal world where people are never judged or discriminated against by labels.
+
+In that very same spirit, I hope the academic community will look past my educational background, look past the labels, and evaluate my work based purely on **my talent, my logic, and my contribution to the field.**
+
+To be completely honest, this is my very first time having a paper accepted to a venue of this scale (EMNLP 2026), and I am navigating the entire post-acceptance workflow alone. I am also flying solo to Budapest—my first time taking a long-haul flight and leaving Asia! It’s a bit daunting, but I am excited for what lies ahead.
 
 ---
 
-### 🤝 Let's Break the Ice & Connect!
+# 🤝 **Let's Connect & Build Together!**
 
-Since we've cleared the air, **please don't hesitate to reach out to me!** 
+🔥 **Primary Goal: Seeking Ph.D. Opportunities**
+I am actively looking for **Ph.D. positions**! My core background is anchored in the **AI Bias, Safety, and Ethics** track, and I am eager to expand into next-generation research directions. If you are a professor, researcher, or lab leader looking for a fiercely independent student with a proven track record (and the ability to deliver top-tier work single-handedly), I would love to chat! 
 
-🔥 **Primary Goal / PhD Opportunities & Research Direction:**  
-**I am actively looking for Ph.D. positions / opportunities starting soon!** My core research background is anchored in the **AI Bias & Safety** track, and I am currently looking forward to exploring and expanding into exciting new research directions. If you are a professor, a researcher, or a lab looking for a motivated student with a proven track record in this domain, **please reach out to me via email!** I would love to discuss potential Ph.D. openings and how I can contribute to your group.
+**Other Ways to Connect:**
+* Discuss the **MAAM** methodology, dataset replications, or AI Safety landscapes.
+* Share any visa tips or conference survival guides for Budapest.
+* Connect as conference buddies at EMNLP 2026!
 
-**Other ways to connect (I'd love to hear from you!):**
-* Chat about the **MAAM methodology**, discuss the **Bias & Safety** landscape, or brainstorm new cross-domain tracks.
-* Share any advice, **visa tips, or conference survival guides** for Budapest (I am all ears!).
-* Connect as **conference buddies** if you are also attending EMNLP 2026!
-
-You can drop me an email anytime. Let’s connect, clear up any misunderstandings, and hopefully start a wonderful academic journey together!
+Feel free to drop me an email anytime. The data is now live—let's start this journey!
 
 > **Best regards,**  
 > **Yuxin Fu**  
@@ -47,7 +49,8 @@ This repository contains project materials for **MAAM: Anchor-Preserving Compres
 
 Chinese discriminatory-language detection is challenging because harmful intent is often implicit and context-dependent. We propose **MAAM (Myopia--Astigmatism Anchor Mechanism)**, a lightweight, model-agnostic framework inspired by functional visual blur: rather than preserving every token equally, MAAM retains discrimination-relevant semantic anchors and calibrates them with C--I--S contextual priors (Contextual Tone, Group Identity, and Stance Polarity). We also introduce **ChLGBT**, to our knowledge the first Chinese LGBT-focused discriminatory-language dataset, with 8,120 manually annotated samples and three ordinal labels: explicit bias, implicit bias, and emotional intensity. Across strong encoder baselines, MAAM improves all three prediction dimensions, with consistent gains in accuracy, F1, Brier score, and expected calibration error. Compared with frontier LLM baselines under zero-shot and few-shot prompting protocols, MAAM remains competitive while offering stronger compactness and stability. These results suggest that interpretable anchor preservation and contextual calibration provide a practical alternative to heavier model scaling for Chinese discriminatory-language assessment.
 
-> **Important:** We do **not** release the original raw social-media texts of ChLGBT because they may contain sensitive personal expression, harmful language, and content that could be linked back to individual users. The non-identifying ChLGBT dataset will be made public after the paper is formally accepted (by early September 2026); at this stage, this repository only provides project information and dataset documentation.
+> **Data Access & Privacy Note:** 
+> To protect sensitive personal expressions and ensure ethical compliance, the original raw social-media texts of **ChLGBT** are not released to prevent any risk to individual users. However, the cleaned, non-identifying, and fully processed **ChLGBT dataset** is **now officially live and available in this repository** (see the attached release files). Enjoy exploring and building upon our work!
 
 
 # 📖 Two Ways to Read This Repository
