@@ -75,8 +75,8 @@ The 1-5 scores should be interpreted as ordinal research labels rather than obje
 Therefore, the labels should be used for dataset-level analysis, model training, and benchmark evaluation under the documented annotation scheme. They should not be treated as definitive moral, legal, or social judgments about any individual speaker or community. Disagreements about individual scores should be understood as part of the inherent subjectivity of fine-grained bias annotation, rather than as errors in isolation.
 
 ## Dataset Access
-> 📢 **Release Schedule:**  
-> The anonymized dataset is currently being prepared alongside our camera-ready version and will be **fully public within a few days** (by early September 2026). Please stay tuned or star this repository for updates!
+> 📢 **Dataset Release Status:**  
+> The anonymized **ChLGBT dataset** has been officially released alongside our camera-ready version. The complete dataset files are **now fully public and available for download** in this repository. Dive in, replicate, and build amazing things!
 
 Due to privacy and ethical considerations related to social-media content and LGBT-related discriminatory language, we do **not** release the original raw Weibo texts used to construct ChLGBT.
 
