@@ -12,6 +12,25 @@
 > We look forward to seeing you in Budapest, Hungary!
 
 
+---
+
+## 📢 [2026-09-23 Update] Note on System-1 Synergy (e.g., Jev) & Call for Collaborators 🚀
+
+Recently, ultra-fast System-1 decision controllers (such as Jev)) have gained significant traction in the community. Although **MAAM** (*Anchor-Preserving Compression and Contextual Calibration*) was originally evaluated on classical BERT-style encoders to guarantee rigorous, noise-free pragmatic baselines, its core methodology is fundamentally **architecture-agnostic**.
+
+Conceptually, MAAM serves as a near-perfect pre-processing and noise-filtering engine for fast System-1 controllers:
+- **Noise Suppression**: Dynamically filters context redundancy while retaining essential semantic anchors.
+- **Context Calibration**: Restores implicit pragmatic nuances (e.g., sarcasm, indirect discrimination) before hitting the decision layer.
+
+Integrating MAAM as an anchor-preserved pre-processor for Jev-like controllers can potentially achieve much higher accuracy and inference throughput than traditional encoders. 
+
+As I am currently shifting my focus toward a **completely new, independent research direction that goes beyond MAAM (stay tuned for the upcoming series!)** in NLP/AI Safety, I won't have the bandwidth to write a dedicated MAAM + Jev hybrid paper. However, I warmly invite and encourage interested researchers and developers to explore this promising direction!
+
+> 💡 **Call for Collaborators:**
+> As an independent researcher with limited compute resources and team support, I am actively seeking collaborators, compute sponsors, and lab partners for my upcoming research series. If you are passionate about pioneering novel, sharp angles in NLP, AI Safety, and Pragmatics, feel free to open an Issue, PR, or reach out via email! Let's build something impactful together! 🌟
+
+
+---
 
 # 📢 **A Quick Note & Delivering on My Promise (September 7, 2026)**
 
