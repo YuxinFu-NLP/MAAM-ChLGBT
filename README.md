@@ -7,9 +7,19 @@
 
 > ## 🎉 **News (August 21, 2026)**
 > 
-> Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** has been officially accepted to **EMNLP 2026 (Findings)**!  
+> Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** has been officially accepted to **EMNLP 2026 (Findings)**!
 > 
-> We look forward to seeing you in Budapest, Hungary!
+## 🎪 Meet Us at EMNLP 2026!
+
+We are excited to present our work in person at **EMNLP 2026** in Budapest! 
+
+- 📅 **Date**: Tuesday, October 27, 2026
+- ⏰ **Time**: 09:00 – 10:30 (CEST)
+- 📍 **Location**: Hall H | Session 10 | Poster Session F
+- 📝 **Presenter**: Yuxin Fu
+- 📌 **Format**: **Poster Presentation**
+
+> 💖 *Come say hi, grab a chat about AI Ethics & DEI, or discuss future collaborations with the author!*
 
 
 ---
