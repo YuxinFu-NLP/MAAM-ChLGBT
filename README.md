@@ -24,6 +24,17 @@ We are excited to present our work in person at **EMNLP 2026** in Budapest!
 
 ---
 
+## 💬[2026-10-02 Update] **A Quick Note from the Author** 🌸
+
+ Hi there! Having spent almost 4 solid years immersed in research since my freshman year, I used to be a total "primitive human" when it came to personal branding. While everyone was crafting flashy web interfaces and slick agentic workflows, I was buried deep in data, logic, and building what I truly believe is impactful, value-driven NLP research.
+🤡
+But hey, I finally realized it’s time to complement top-tier work with a proper cyber home! I’ve officially hand-crafted my very first personal academic website from scratch. *Turns out, top-tier ingredients only need the simplest cooking methods!* ✨
+
+
+👉 **Personal Site**: [yuxinfu-nlp.github.io](https://yuxinfu-nlp.github.io)
+ 
+---
+
 ## 📢 [2026-09-23 Update] Note on System-1 Synergy (e.g., Jev) & Call for Collaborators 🚀
 
 Recently, ultra-fast System-1 decision controllers (such as Jev)) have gained significant traction in the community. Although **MAAM** (*Anchor-Preserving Compression and Contextual Calibration*) was originally evaluated on classical BERT-style encoders to guarantee rigorous, noise-free pragmatic baselines, its core methodology is fundamentally **architecture-agnostic**.
