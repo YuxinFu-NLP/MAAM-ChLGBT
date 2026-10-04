@@ -23,6 +23,18 @@ We are excited to present our work in person at **EMNLP 2026** in Budapest!
 
 
 ---
+## 📢 [2026-10-04 Update] I'm Back! Hand-Crafted EMNLP Poster is Ready! 🎉
+
+Guess what? After endless grueling hours, my EMNLP poster has officially been hand-crafted using the most ancient, battle-tested, primitive software known to humanity: Microsoft PowerPoint!
+
+As a certified "Cyber-Primitive Human", I live a pure, honest life and have never subscribed to any paid LLM memberships (yes, I’m literally broke 🤡). Since I have zero knowledge of using fancy agentic workflows or slick one-click AI generators, I had to carve every single pixel by hand—with the calm and poise of a traditional artisan 🤡💦.
+
+Yes, I admit I am pretty chaotic and unhinged. But hey, if anyone is willing to sponsor my compute or API memberships, I’ve got my Chinese classic line ready for you🫡:
+
+> “吕布飘零半生，只恨未逢明主，公若不弃，布愿拜为义父。”  
+> *(TL;DR: "I have wandered half my life in search of a true leader. If you don't reject me, I am ready to acknowledge you as my adoptive father/patron!" — Lu Bu, The Ultimate Mercenary General ⚔️)*
+
+🎨 [View / Download my Hand-Crafted Poster PDF here](MAAM-Poster.pdf) — Come check out what true handmade logic looks like! ✨
 
 ## 💬[2026-10-02 Update] **A Quick Note from the Author** 🌸
 
