@@ -9,41 +9,39 @@
 > 
 > Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** has been officially accepted to **EMNLP 2026 (Findings)**!
 > 
-## 🎪 Meet Us at EMNLP 2026!
-
-We are excited to present our work in person at **EMNLP 2026** in Budapest! 
-
-- 📅 **Date**: Tuesday, October 27, 2026
-- ⏰ **Time**: 09:00 – 10:30 (CEST)
-- 📍 **Location**: Hall H | Session 10 | Poster Session F
-- 📝 **Presenter**: Yuxin Fu
-- 📌 **Format**: **Poster Presentation**
-
-> 💖 *Come say hi, grab a chat about AI Ethics & DEI, or discuss future collaborations with the author!*
 
 
----
-## 📢 [2026-10-04 Update] I'm Back! Hand-Crafted EMNLP Poster is Ready! 🎉
-
-Guess what? After endless grueling hours, my EMNLP poster has officially been hand-crafted using the most ancient, battle-tested, primitive software known to humanity: Microsoft PowerPoint!
-
-As a certified "Cyber-Primitive Human", I live a pure, honest life and have never subscribed to any paid LLM memberships (yes, I’m literally broke 🤡). Since I have zero knowledge of using fancy agentic workflows or slick one-click AI generators, I had to carve every single pixel by hand—with the calm and poise of a traditional artisan 🤡💦.
-
-Yes, I admit I am pretty chaotic and unhinged. But hey, if anyone is willing to sponsor my compute or API memberships, I’ve got my Chinese classic line ready for you🫡:
-
-> “吕布飘零半生，只恨未逢明主，公若不弃，布愿拜为义父。”  
-> *(TL;DR: "I have wandered half my life in search of a true leader. If you don't reject me, I am ready to acknowledge you as my adoptive father/patron!" — Lu Bu, The Ultimate Mercenary General ⚔️)*
-
-🎨 [View / Download my Hand-Crafted Poster PDF here](MAAM-Poster.pdf) — Come check out what true handmade logic looks like! ✨
-
-## 💬[2026-10-02 Update] **A Quick Note from the Author** 🌸
-
- Hi there! Having spent almost 4 solid years immersed in research since my freshman year, I used to be a total "primitive human" when it came to personal branding. While everyone was crafting flashy web interfaces and slick agentic workflows, I was buried deep in data, logic, and building what I truly believe is impactful, value-driven NLP research.
-🤡
-But hey, I finally realized it’s time to complement top-tier work with a proper cyber home! I’ve officially hand-crafted my very first personal academic website from scratch. *Turns out, top-tier ingredients only need the simplest cooking methods!* ✨
+## 🕊️ [2026-10-27 Update] Retrospective on EMNLP & The End of MAAM
 
 
-👉 **Personal Site**: [yuxinfu-nlp.github.io](https://yuxinfu-nlp.github.io)
+After attending the conference, I still find myself overwhelmed with complex emotions. Standing on the stage of a top-tier conference for the first time, it is inevitable to leave with both theoretical pride and a touch of regret.
+
+I was deeply moved when the very first attendee at my poster session said to me: 
+> *"This work should have made it into the main conference."*
+
+In truth, how could I not have thought the same? The solitary courage of youth and unadulterated talent could only carry me this far.
+
+> **“少年之孤勇与悲痛并非能被大众所热烈推崇之作。”**  
+> *(The raw courage and grief of youth are rarely works that the broad public warmly embraces.)*
+
+The chapter of **MAAM** comes to its close here. Though there remains so much left unsaid, it has officially reached its conclusion (2025.12.15 – 2026.10.27).
+
+Even if it didn't reach a higher pedestal, nor commanded grander applause, it at least allowed me to step out of being a *nobody* and begin carving out my own voice in the field.
+
+
+Anyway, stay tuned for my next work — **coming soon**.
+
+This will be the second installment of the series (MAAM was the first). Success in research demands far more than raw talent alone. Fortunately, this time around, I will no longer be as completely empty-handed — left with nothing but talent — as I was back in December 2025.
+
+<br>
+
+<div align="left">
+  <p><em>Written in Budapest, Hungary</em></p>
+  <p><em>October 2026</em></p>
+</div>
+
+
+
  
 ---
 
@@ -63,32 +61,15 @@ As I am currently shifting my focus toward a **completely new, independent resea
 > As an independent researcher with limited compute resources and team support, I am actively seeking collaborators, compute sponsors, and lab partners for my upcoming research series. If you are passionate about pioneering novel, sharp angles in NLP, AI Safety, and Pragmatics, feel free to open an Issue, PR, or reach out via email! Let's build something impactful together! 🌟
 
 
----
-
-# 📢 **A Quick Note & Delivering on My Promise (September 7, 2026)**
-
-First of all, thank you all so much for checking out **MAAM** and **ChLGBT**!
-
-As promised, I am here to honor my word—even if it might feel like a quiet promise in a noisy world. Today, I am officially releasing the complete, authentic **ChLGBT** dataset. 
-
-This dataset carries the weight of my entire undergraduate journey—countless late nights, unyielding persistence, and absolute passion. My original motivation for building **ChLGBT** was to amplify the voices of marginalized communities, fostering a truly equal world where people are never judged or discriminated against by labels.
-
-In that very same spirit, I hope the academic community will look past my educational background, look past the labels, and evaluate my work based purely on **my talent, my logic, and my contribution to the field.**
-
-To be completely honest, this is my very first time having a paper accepted to a venue of this scale (EMNLP 2026), and I am navigating the entire post-acceptance workflow alone. I am also flying solo to Budapest—my first time taking a long-haul flight and leaving Asia! It’s a bit daunting, but I am excited for what lies ahead.
 
 ---
 
 # 🤝 **Let's Connect & Build Together!**
 
 🔥 **Primary Goal: Seeking Ph.D. Opportunities**
+
 I am actively looking for **Ph.D. positions**! My core background is anchored in the **AI Bias, Safety, and Ethics** track, and I am eager to expand into next-generation research directions. If you are a professor, researcher, or lab leader looking for a fiercely independent student with a proven track record (and the ability to deliver top-tier work single-handedly), I would love to chat! 
-
-**Other Ways to Connect:**
-* Discuss the **MAAM** methodology, dataset replications, or AI Safety landscapes.
-* Share any visa tips or conference survival guides for Budapest.
-* Connect as conference buddies at EMNLP 2026!
-
+👉 **Personal Site**: [yuxinfu-nlp.github.io](https://yuxinfu-nlp.github.io)
 Feel free to drop me an email anytime. The data is now live—let's start this journey!
 
 > **Best regards,**  
@@ -105,11 +86,13 @@ Chinese discriminatory-language detection is challenging because harmful intent 
 > To protect sensitive personal expressions and ensure ethical compliance, the original raw social-media texts of **ChLGBT** are not released to prevent any risk to individual users. However, the cleaned, non-identifying, and fully processed **ChLGBT dataset** is **now officially live and available in this repository** (see the attached release files). Enjoy exploring and building upon our work!
 
 
-# 📖 Two Ways to Read This Repository
+# 📖 Three Ways to Read This Repository
 
 > **🧭 [Read the Philosophy & MAAM's WORLD](./README（MAAM%27s%20WORLD）.md)** — Why this method exists, the personal story, the five universal principles, and how to extend it to any language, task, or model.
 >
-> **⚙️ [Read the Technical Paper & Experiments](./README（ChLGBT）.md)** — The EMNLP 2026 Findings paper, ChLGBT dataset and experimental results.
+> **⚙️ [Read the instructions for the Dataset](./README（ChLGBT）.md)** — Details of ChLGBT.
+> 
+> **🎨 [View / Download my Hand-Crafted Poster PDF here](MAAM-Poster.pdf)** — Come check out what true handmade poster looks like.
 
 ---
 
@@ -148,12 +131,7 @@ If you use this project, the MAAM framework, or the ChLGBT dataset in your resea
 We warmly welcome academic discussions, potential research collaborations, and inquiries regarding the **MAAM** framework or the **ChLGBT** benchmark!
 
 - **Primary Contact (for research collaboration & dataset access):** Yuxin Fu ([yuxinfuNLP@outlook.com](mailto:yuxinfuNLP@outlook.com)) — please direct all project-related correspondence here.
-- **GitHub Issues:** Feel free to open an issue in this repository for technical questions or bug reports.
-- **Collaboration Note:** If you are interested in extending the ChLGBT benchmark, fine-grained bias analysis, or cross-linguistic discriminatory language detection, please don't hesitate to reach out via email—we'd be happy to connect and discuss ideas.
 
-We also welcome feedback, suggestions, and constructive criticism to help us improve this project.
-
----
 
 *For institutional or administrative correspondence:*
 - **Shijing Si** (co-author): shijing.si@outlook.com
