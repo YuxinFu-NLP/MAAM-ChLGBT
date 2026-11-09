@@ -1,14 +1,15 @@
 # MAAM and ChLGBT
 
 
-[![EMNLP 2026 Accepted](https://img.shields.io/badge/EMNLP%202026-Accepted%20(Findings)-emerald.svg)](https://2026.emnlp.org/)
+[![EMNLP 2026 Published](https://img.shields.io/badge/EMNLP%202026-Published%20(Findings)-emerald.svg)](https://2026.emnlp.org/)
 [![arXiv](https://img.shields.io/badge/arXiv-2606.09114-b31b1b.svg)](http://arxiv.org/abs/2606.09114)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-> ## 🎉 **News (August 21, 2026)**
-> 
-> Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** has been officially accepted to **EMNLP 2026 (Findings)**!
-> 
+> ## 🎉 **News (November 9, 2026)**
+>
+> Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** has been officially published in **Findings of the Association for Computational Linguistics: EMNLP 2026**!
+>
+> 📄 [Read the published paper](https://aclanthology.org/2026.findings-emnlp.84/)
 
 
 ## 🕊️ [2026-10-27 Update] Retrospective on EMNLP & The End of MAAM
@@ -97,32 +98,45 @@ Chinese discriminatory-language detection is challenging because harmful intent 
 ---
 
 
-## Paper (Preprint)
+## 📄 Published Paper
 
-Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** is now available as a preprint:
+Our paper **"MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection"** has been officially published in:
 
-[![arXiv](https://img.shields.io/badge/arXiv-2606.09114-b31b1b.svg)](http://arxiv.org/abs/2606.09114)
+**Findings of the Association for Computational Linguistics: EMNLP 2026**
 
-- **arXiv ID:** 2606.09114
-- **Link:** [http://arxiv.org/abs/2606.09114](http://arxiv.org/abs/2606.09114)
-- **Cite as:** arXiv:2606.09114 [cs.CL]
+- **Authors:** YuXin Fu and Shijing Si
+- **Venue:** Findings of EMNLP 2026
+- **Pages:** 1713–1733
+- **Location:** Budapest, Hungary
+- **ACL Anthology ID:** 2026.findings-emnlp.84
 
-
+- **Published Version:** https://aclanthology.org/2026.findings-emnlp.84/
+- **PDF:** https://aclanthology.org/2026.findings-emnlp.84.pdf
 
 
 ## Citation
 
-If you use this project, the MAAM framework, or the ChLGBT dataset in your research, please cite our arXiv preprint:
+If you use the MAAM framework or the ChLGBT dataset in your research, please cite the officially published version:
 
 ```bibtex
-@misc{fu2026maamanchorpreservingcompressioncontextual,
-      title={MAAM: Anchor-Preserving Compression and Contextual Calibration for Chinese Discriminatory Language Detection}, 
-      author={Yuxin Fu and Shijing Si},
-      year={2026},
-      eprint={2606.09114},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2606.09114}, 
+@inproceedings{fu-si-2026-maam,
+    title = "{MAAM}: Anchor-Preserving Compression and Contextual Calibration for {C}hinese Discriminatory Language Detection",
+    author = "Fu, YuXin  and
+      Si, Shijing",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.84/",
+    doi = "10.18653/2026.findings-emnlp.84",
+    pages = "1713--1733",
+    ISBN = "979-8-89176-462-0",
+    abstract = "Chinese discriminatory-language detection is challenging because harmful intent is often implicit and context-dependent. We propose MAAM (Myopia{--}Astigmatism Anchor Mechanism), a lightweight, model-agnostic framework inspired by functional visual blur: rather than preserving every token equally, MAAM retains discrimination-relevant semantic anchors and calibrates them with C{--}I{--}S contextual priors (Contextual Tone, Group Identity, and Stance Polarity). We also introduce ChLGBT, to our knowledge the first Chinese LGBT-focused discriminatory-language dataset, with 8,120 manually annotated samples and three ordinal labels: explicit bias, implicit bias, and emotional intensity. Across strong encoder baselines, MAAM improves all three prediction dimensions, with consistent gains in accuracy, F1, Brier score, and expected calibration error. Compared with frontier LLM baselines under zero-shot and few-shot prompting protocols, MAAM remains competitive while offering stronger compactness and stability. These results suggest that interpretable anchor preservation and contextual calibration provide a practical alternative to heavier model scaling for Chinese discriminatory-language assessment."
 }
 ```
 
